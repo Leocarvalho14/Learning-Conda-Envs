@@ -5,6 +5,7 @@ Repository used for learning conda envs and WEB Applications
 1.  [Conda Envs Guide](https://towardsdatascience.com/a-guide-to-conda-environments-bc6180fc533)
 2.  [Docker Flask APP](https://www.youtube.com/watch?v=dVEjSmKFUVI)
 3.  [Docker Toolbox Tutorial](https://devconnected.com/how-to-install-docker-on-windows-7-8-10-home-and-pro/)
+4.  [uWSGI - Application used to WEB Server Hosting](https://flask.palletsprojects.com/en/1.1.x/deploying/uwsgi/)
 
 
 
